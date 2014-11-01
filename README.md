@@ -16,6 +16,8 @@ If you want to get a patent based on your idea you should probably not start a s
 Everyone that is not afraid to share an idea.
 
 ### Ideas are easy, inovation is hard.
-> Talk is cheap. Show me the code  
-Torvalds, Linus (2000-08-25).
+Torvalds, Linus (2000-08-25):
+> Talk is cheap. Show me the code.
 
+### Time is limited
+You have to choose which projects you want to spend your time one. But maybe someone have time to spare for the project and maybe they can convince you that you too should spend more time with this project. 
